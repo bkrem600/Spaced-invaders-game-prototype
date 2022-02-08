@@ -1,0 +1,20 @@
+C:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+C:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.MainForm.resources
+C:\Users\Bo\OneDrive - University of the West of Scotland\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\Bo\OneDrive - University of the West of Scotland\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\Bo\OneDrive - University of the West of Scotland\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\Bo\OneDrive - University of the West of Scotland\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\Bo\OneDrive - University of the West of Scotland\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.MainForm.resources
+C:\Users\Bo\OneDrive - University of the West of Scotland\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\Bo\OneDrive - University of the West of Scotland\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\Users\Bo\OneDrive - University of the West of Scotland\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Bo\OneDrive - University of the West of Scotland\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\Bo\OneDrive - University of the West of Scotland\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
